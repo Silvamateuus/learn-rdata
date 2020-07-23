@@ -1,4 +1,4 @@
-# Estudos da linguagem R
+# Estudo da linguagem R
 
 ## Passos de instalação RStudio linux:
 
